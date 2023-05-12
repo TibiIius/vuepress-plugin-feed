@@ -63,7 +63,6 @@ coverage
 
 # locks
 package-lock.json
-yarn.lock
 
 # file containing environment variables such as secret api keys
 # used in conjunction with dotenv package
